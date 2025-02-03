@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\maze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{492CC483-AA02-42E7-A795-5538A2C8BE6A}|maze\\maze.vcxproj|C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\maze\\maze\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{492CC483-AA02-42E7-A795-5538A2C8BE6A}|maze\\maze.vcxproj|solutionrelative:maze\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492CC483-AA02-42E7-A795-5538A2C8BE6A}|maze\\maze.vcxproj|C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\maze\\maze\\maze.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{492CC483-AA02-42E7-A795-5538A2C8BE6A}|maze\\maze.vcxproj|solutionrelative:maze\\maze.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "maze.txt",
+              "DocumentMoniker": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\maze\\maze\\maze.txt",
+              "RelativeDocumentMoniker": "maze\\maze.txt",
+              "ToolTip": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\maze\\maze\\maze.txt",
+              "RelativeToolTip": "maze\\maze.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-30T16:58:25.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\maze\\maze\\main.cpp",
+              "RelativeDocumentMoniker": "maze\\main.cpp",
+              "ToolTip": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\maze\\maze\\main.cpp",
+              "RelativeToolTip": "maze\\main.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T16:58:09.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
