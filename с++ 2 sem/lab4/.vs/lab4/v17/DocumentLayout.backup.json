@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NIkitos\\Desktop\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2A6145-DED9-4C53-8002-BE9B8C9434AE}|lab4\\lab4.vcxproj|C:\\Users\\NIkitos\\Desktop\\lab4\\lab4\\bigint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F2A6145-DED9-4C53-8002-BE9B8C9434AE}|lab4\\lab4.vcxproj|solutionrelative:lab4\\bigint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2A6145-DED9-4C53-8002-BE9B8C9434AE}|lab4\\lab4.vcxproj|C:\\Users\\NIkitos\\Desktop\\lab4\\lab4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F2A6145-DED9-4C53-8002-BE9B8C9434AE}|lab4\\lab4.vcxproj|solutionrelative:lab4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2A6145-DED9-4C53-8002-BE9B8C9434AE}|lab4\\lab4.vcxproj|C:\\Users\\NIkitos\\Desktop\\lab4\\lab4\\bigint.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F2A6145-DED9-4C53-8002-BE9B8C9434AE}|lab4\\lab4.vcxproj|solutionrelative:lab4\\bigint.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bigint.cpp",
+              "DocumentMoniker": "C:\\Users\\NIkitos\\Desktop\\lab4\\lab4\\bigint.cpp",
+              "RelativeDocumentMoniker": "lab4\\bigint.cpp",
+              "ToolTip": "C:\\Users\\NIkitos\\Desktop\\lab4\\lab4\\bigint.cpp*",
+              "RelativeToolTip": "lab4\\bigint.cpp*",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwFIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T17:20:26.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NIkitos\\Desktop\\lab4\\lab4\\main.cpp",
+              "RelativeDocumentMoniker": "lab4\\main.cpp",
+              "ToolTip": "C:\\Users\\NIkitos\\Desktop\\lab4\\lab4\\main.cpp",
+              "RelativeToolTip": "lab4\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T14:59:39.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bigint.hpp",
+              "DocumentMoniker": "C:\\Users\\NIkitos\\Desktop\\lab4\\lab4\\bigint.hpp",
+              "RelativeDocumentMoniker": "lab4\\bigint.hpp",
+              "ToolTip": "C:\\Users\\NIkitos\\Desktop\\lab4\\lab4\\bigint.hpp",
+              "RelativeToolTip": "lab4\\bigint.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-21T17:15:14.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
