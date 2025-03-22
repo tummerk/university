@@ -1,5 +1,6 @@
 ﻿  bigint.cpp
-C:\Users\NIkitos\Desktop\lab4\lab4\bigint.cpp(45,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\NIkitos\Desktop\lab4\lab4\bigint.cpp(54,1): warning C4172: возвращаемый адрес локальной переменной или временного : sum
-C:\Users\NIkitos\Desktop\lab4\lab4\bigint.cpp(99,1): warning C4172: возвращаемый адрес локальной переменной или временного : mult
+C:\Users\NIkitos\Desktop\lab4\lab4\bigint.cpp(10,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NIkitos\Desktop\lab4\lab4\bigint.cpp(84,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NIkitos\Desktop\lab4\lab4\bigint.cpp(104,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NIkitos\Desktop\lab4\lab4\bigint.cpp(191,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
   lab4.vcxproj -> C:\Users\NIkitos\Desktop\lab4\x64\Debug\lab4.exe
