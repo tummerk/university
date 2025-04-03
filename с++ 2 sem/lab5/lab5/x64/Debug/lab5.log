@@ -1,0 +1,6 @@
+﻿  MyVector.cpp
+C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab5\lab5\MyVector.cpp(27,27): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab5\lab5\MyVector.cpp(92,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab5\lab5\MyVector.cpp(106,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab5\lab5\MyVector.cpp(68,1): warning C4172: возвращаемый адрес локальной переменной или временного : def
+  lab5.vcxproj -> C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab5\x64\Debug\lab5.exe

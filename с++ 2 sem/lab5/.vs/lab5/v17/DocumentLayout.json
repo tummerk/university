@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87B84AE7-69A3-447A-BA2D-AFB79230AABA}|lab5\\lab5.vcxproj|C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab5\\lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87B84AE7-69A3-447A-BA2D-AFB79230AABA}|lab5\\lab5.vcxproj|solutionrelative:lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B84AE7-69A3-447A-BA2D-AFB79230AABA}|lab5\\lab5.vcxproj|C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab5\\lab5\\MyVector.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87B84AE7-69A3-447A-BA2D-AFB79230AABA}|lab5\\lab5.vcxproj|solutionrelative:lab5\\MyVector.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B84AE7-69A3-447A-BA2D-AFB79230AABA}|lab5\\lab5.vcxproj|C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab5\\lab5\\MyVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87B84AE7-69A3-447A-BA2D-AFB79230AABA}|lab5\\lab5.vcxproj|solutionrelative:lab5\\MyVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyVector.cpp",
+              "DocumentMoniker": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab5\\lab5\\MyVector.cpp",
+              "RelativeDocumentMoniker": "lab5\\MyVector.cpp",
+              "ToolTip": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab5\\lab5\\MyVector.cpp",
+              "RelativeToolTip": "lab5\\MyVector.cpp",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwFQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T11:36:49.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyVector.hpp",
+              "DocumentMoniker": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab5\\lab5\\MyVector.hpp",
+              "RelativeDocumentMoniker": "lab5\\MyVector.hpp",
+              "ToolTip": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab5\\lab5\\MyVector.hpp",
+              "RelativeToolTip": "lab5\\MyVector.hpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T11:35:10.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab5\\lab5\\main.cpp",
+              "RelativeDocumentMoniker": "lab5\\main.cpp",
+              "ToolTip": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab5\\lab5\\main.cpp",
+              "RelativeToolTip": "lab5\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T11:34:08.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
