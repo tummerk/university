@@ -41,13 +41,17 @@ public:
             reallocate();
 
         if (value) {
-            arr[size / 8] |= (1 << 7 - size % 8); 
+            arr[size / 8] |= (1 << 7 - size % 8);
         }
         else {
-            arr[size / 8 ] &= ~(1 << 7 - size % 8); 
+            arr[size / 8] &= ~(1 << 7 - size % 8);
         }
         size++;
     };
+
+    size_t size() {
+        return this->size;
+    }
 
     bool operator[] (int key) {
         key++;
@@ -57,6 +61,11 @@ public:
         bool value;
         value = ((arr[chunk] >> (8 - key % 8)) & 1);
         return value;
+    }
+
+    void erase(size_t index) {
+        size_t chank_index = index / 8;
+        
     }
 
 
@@ -69,6 +78,7 @@ public:
         }
         cout << endl;
     }
+
 };
 
 void main() {
