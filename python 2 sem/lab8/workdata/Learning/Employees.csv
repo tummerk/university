@@ -1,0 +1,5 @@
+userId,jobTitle,firstName,lastName,employeeCode,region,phoneNumber,emailAddress
+bob,Data Scientist,Bob,Brown,E5,TX,4444444,bob.brown@learningcontainer.com
+alice,Software Engineer,Alice,Smith,E4,NY,3333333,alice.smith@learningcontainer.com
+frank,DevOps Engineer,Frank,Taylor,E9,CO,8888888,frank.taylor@learningcontainer.com
+eva,HR Manager,Eva,Moore,E8,IL,7777777,eva.moore@learningcontainer.com
