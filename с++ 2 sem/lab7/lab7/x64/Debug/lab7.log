@@ -1,6 +1,5 @@
 ﻿  main.cpp
-C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab7\lab7\main.cpp(29,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab7\lab7\main.cpp(44,33): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
-C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab7\lab7\main.cpp(47,35): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
-C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab7\lab7\main.cpp(74,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab7\lab7\main.cpp(90,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab7\lab7\main.cpp(127,17): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab7\lab7\main.cpp(132,30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
   lab7.vcxproj -> C:\Users\NIkitos\Documents\GitHub\university\с++ 2 sem\lab7\x64\Debug\lab7.exe
