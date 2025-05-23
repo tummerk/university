@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab8\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4702EF0-885B-424E-B2EF-BEBE783EF839}|lab8\\lab8.vcxproj|C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab8\\lab8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4702EF0-885B-424E-B2EF-BEBE783EF839}|lab8\\lab8.vcxproj|solutionrelative:lab8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 68,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab8\\lab8\\main.cpp",
+              "RelativeDocumentMoniker": "lab8\\main.cpp",
+              "ToolTip": "C:\\Users\\NIkitos\\Documents\\GitHub\\university\\\u0441\u002B\u002B 2 sem\\lab8\\lab8\\main.cpp",
+              "RelativeToolTip": "lab8\\main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T18:38:27.217Z",
+              "EditorCaption": ""
             }
           ]
         }
